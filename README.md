@@ -1,3 +1,5 @@
+![Talk with Kuldeep](TALK_WITH_KULDEEP_offwhite.png)
+
 # 👋 Hi, I'm Kuldeep Ram  
 
 ### 🚀 Data Analytics & Data Quality Leader | Healthcare | Government | Payers  
