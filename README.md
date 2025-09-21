@@ -1,4 +1,4 @@
-![Talk with Kuldeep](TALK_WITH_KULDEEP_offwhite.png)
+![Talk with Kuldeep](TALK_WITH_KULDEEP.png)
 
 # 👋 Hi, I'm Kuldeep Ram  
 
