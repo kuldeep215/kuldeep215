@@ -1,9 +1,9 @@
 # Hi, I'm Kuldeep 👋  
 
-<img src="https://raw.githubusercontent.com/Kuldeep911/Kuldeep911/main/TALK_WITH_KULDEEP.png" alt="Talk with Kuldeep banner" style="width:100%; max-width:1000px; height:auto;"/>
+<img src="https://raw.githubusercontent.com/kuldeep215/kuldeep215/9c1ea67cf118e53840cc39fc6da1ba7bdb45d6c7/TALK_WITH_KULDEEP.png" alt="Talk with Kuldeep banner" style="width:100%; max-width:1000px; height:auto;"/>
 
 ## 👨‍💻 About Me
-- Enthusiastic about **AI & Machine Learning** 
+- Enthusiastic about **AI & Machine Learning**
 - Currently learning and building projects in **data analytics** and **automation**  
 - Background as a **Data Quality Manager** with experience in healthcare and analytics  
 - Always curious and motivated to grow as a developer  
