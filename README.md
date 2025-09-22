@@ -14,12 +14,8 @@ Data Analytics | Process Improvement | Project Management | Mentor
 
 ## 🧰 Core Skills & Tools  
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-000000?style=for-the-badge&logo=processwire&logoColor=white)  
-![Project Management](https://img.shields.io/badge/Project%20Management-007396?style=for-the-badge&logo=Asana&logoColor=white)  
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)    ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-000000?style=for-the-badge&logo=processwire&logoColor=white)    ![Project Management](https://img.shields.io/badge/Project%20Management-007396?style=for-the-badge&logo=Asana&logoColor=white)    ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)  
 
 ---
 
