@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kuldeep215/kuldeep215/9c1ea67cf118e53840cc39fc6da1ba7bdb45d6c7/TALK_WITH_KULDEEP.png" alt="Talk with Kuldeep banner" style="width:100%; max-width:1000px; height:auto;"/>
+<img src="https://github.com/kuldeep215/kuldeep215/blob/main/talk%20with%20Kuldeep.png" alt="Talk with Kuldeep banner" style="width:100%; max-width:1000px; height:auto;"/>
 
 # 👋 Hi, I'm Kuldeep Ram  
 
